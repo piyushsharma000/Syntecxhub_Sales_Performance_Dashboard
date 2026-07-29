@@ -46,4 +46,4 @@ A comprehensive data analytics project designed to analyze sales performance, re
 
 ## 📸 Dashboard Preview
 
-!image
+![image alt](https://github.com/piyushsharma000/Syntecxhub_Sales_Performance_Dashboard/blob/main/Dashboard.png?raw=true)
